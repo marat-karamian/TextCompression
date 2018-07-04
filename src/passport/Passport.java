@@ -42,11 +42,4 @@ public class Passport {
         return Objects.hash(series, number);
     }
 
-//    @Override
-//    public String toString() {
-//        return "Passport{" +
-//                "series='" + series + '\'' +
-//                ", number=" + number +
-//                '}';
-//    }
 }
